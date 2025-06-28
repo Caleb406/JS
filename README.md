@@ -175,13 +175,6 @@ El sistema incluye las siguientes tablas:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abrir un Pull Request
 
-## Licencia
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## Contacto
-- Proyecto: [Invento - Sistema de Inventario](https://github.com/tu-usuario/Invento)
-- Email: tu-email@ejemplo.com
-
 ## Changelog
 ### v1.0.0 (Actual)
 - ✅ Sistema básico de gestión de productos
